@@ -1,0 +1,12 @@
+{
+  "application": "QrateHCC2",
+  "version": "1.2.3",
+  "release_date": "2024-09-17",
+  "download_url": "https://example.com/downloads/QrateHCC2-1.2.3.zip",
+  "changelog": [
+    "Improved performance in Modbus processing",
+    "Fixed bug in user authentication",
+    "Updated OPCUA"
+  ],
+  "mandatory_update": false
+}
