@@ -4,11 +4,11 @@
     },
     "applications": [
         {
-            "appname": "unity_top",
+            "appname": "Unity Edge",
             "appVersion": "1.5.119-dev.20240906.2"
         },
         {
-            "appname": "avalon-hcc2-app",
+            "appname": "Avalon Gateway",
             "appVersion": "1.5.0"          
         },
         {
@@ -16,11 +16,11 @@
             "appVersion": "2.6.6-r1169"          
         },
         {
-            "appname": "ngrtu-configurationmanager",
+            "appname": "Configuration Manager",
             "appVersion": "0.1.0-r20240606.2"          
         },
         {
-            "appname": "zmqproxy",
+            "appname": "ZMQ Proxy",
             "appVersion": "393-1.1.7"          
         },
         {
@@ -28,39 +28,39 @@
             "appVersion": "2.2.0-r1165"          
         },
         {
-            "appname": "licensing",
+            "appname": "License Runtime",
             "appVersion": "7.65.0-r1057"          
         },
         {
-            "appname": "license-manager",
+            "appname": "License Manager",
             "appVersion": "1.2.0-r1352"          
         },  
         {
-            "appname": "edgeenabler",
+            "appname": "edgeEnabler",
             "appVersion": "1.2.0-m1"
         },
         {
-            "appname": "hcc2_coreapp",
+            "appname": "Core Systems",
             "appVersion": "1.0.20240912.1"
         },
         {
-            "appname": "hcc2_iobmgr",
+            "appname": "IO Systems",
             "appVersion": "2.65.20240913.1"
         },
         {
-            "appname": "hcc2_eventmanager",
+            "appname": "Event Manager",
             "appVersion": "0.45.20240830.2"
         },
         {
-            "appname": "hcc2_datalogger",
+            "appname": "Data Logger",
             "appVersion": "0.41.20240913.1"
         },
         {
-            "appname": "hcc2-modbus-driverp",
+            "appname": "Modbus Driver",
             "appVersion": "1.9.20240814.1"
         },    
         {
-            "appname": "hcc2_pdefeditorserver",
+            "appname": "HCC2PDefEditorServer",
             "appVersion": "1.24.20240822.1"
         }
     ]
