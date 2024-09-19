@@ -5,63 +5,63 @@
     "applications": [
         {
             "appname": "unity_top",
-            "appVersion": "1.5.119-dev.20240906.2",
+            "appVersion": "1.5.119-dev.20240906.2"
         },
         {
             "appname": "avalon-hcc2-app",
-            "appVersion": "1.5.0",          
+            "appVersion": "1.5.0"          
         },
         {
             "appname": "hcc2-ldap-base",
-            "appVersion": "2.6.6-r1169",          
+            "appVersion": "2.6.6-r1169"          
         },
         {
             "appname": "ngrtu-configurationmanager",
-            "appVersion": "0.1.0-r20240606.2",          
+            "appVersion": "0.1.0-r20240606.2"          
         },
         {
             "appname": "zmqproxy",
-            "appVersion": "393-1.1.7",          
+            "appVersion": "393-1.1.7"          
         },
         {
             "appname": "ngrtu-fluent-bit",
-            "appVersion": "2.2.0-r1165",          
+            "appVersion": "2.2.0-r1165"          
         },
         {
             "appname": "licensing",
-            "appVersion": "7.65.0-r1057",          
+            "appVersion": "7.65.0-r1057"          
         },
         {
             "appname": "license-manager",
-            "appVersion": "1.2.0-r1352",          
+            "appVersion": "1.2.0-r1352"          
         },  
         {
             "appname": "edgeenabler",
-            "appVersion": "1.2.0-m1",
+            "appVersion": "1.2.0-m1"
         },
         {
             "appname": "hcc2_coreapp",
-            "appVersion": "1.0.20240912.1",
+            "appVersion": "1.0.20240912.1"
         },
         {
             "appname": "hcc2_iobmgr",
-            "appVersion": "2.65.20240913.1",
+            "appVersion": "2.65.20240913.1"
         },
         {
             "appname": "hcc2_eventmanager",
-            "appVersion": "0.45.20240830.2",
+            "appVersion": "0.45.20240830.2"
         },
         {
             "appname": "hcc2_datalogger",
-            "appVersion": "0.41.20240913.1",
+            "appVersion": "0.41.20240913.1"
         },
         {
             "appname": "hcc2-modbus-driverp",
-            "appVersion": "1.9.20240814.1",
+            "appVersion": "1.9.20240814.1"
         },    
         {
             "appname": "hcc2_pdefeditorserver",
-            "appVersion": "1.24.20240822.1",
-        },
+            "appVersion": "1.24.20240822.1"
+        }
     ]
 }
