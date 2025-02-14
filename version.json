@@ -5,7 +5,7 @@
     "applications": [
         {
             "appname": "Unity Edge",
-            "appVersion": "1.6.214-dev.20250206.2"
+            "appVersion": "1.6.223-20250213.4"
         },
         {
             "appname": "Avalon Gateway",
@@ -17,7 +17,7 @@
         },
         {
             "appname": "Configuration Manager",
-            "appVersion": "0.1.0-r20250122.1"
+            "appVersion": "0.1.0-r20250213.2"
         },
         {
             "appname": "ZMQ Proxy",
@@ -65,7 +65,7 @@
         },
         {
             "appname": "OPC UA Server",
-            "appVersion": "0.22.20250114.3"
+            "appVersion": "0.23.20250213.2"
         },
         {
             "appname": "HCC2 REST Server",
@@ -73,7 +73,7 @@
         },
         {
             "appname": "mqtt",
-            "appVersion": "0.21.0-20250124.2"
+            "appVersion": "0.22.0-20250203.1"
         }
     ]
 }
