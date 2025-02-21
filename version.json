@@ -1,79 +1,79 @@
 {
     "osRelease": {
-        "version": "1.8.0-0ed5e72-20250116.1"
+        "version": "1.8.0-f8290d2-20250212.4"
     },
     "applications": [
         {
-            "appname": "Unity Edge",
+            "appname": "unity",
             "appVersion": "1.6.223-20250213.4"
         },
         {
-            "appname": "Avalon Gateway",
-            "appVersion": "1.6.2"
+            "appname": "avalonHcc2App",
+            "appVersion": "1.6.2"          
         },
         {
-            "appname": "hcc2-ldap-base",
-            "appVersion": "2.6.6-r1169"
+            "appname": "ldap",
+            "appVersion": "2.6.6-r1169"          
         },
         {
-            "appname": "Configuration Manager",
-            "appVersion": "0.1.0-r20250213.2"
+            "appname": "configmgr",
+            "appVersion": "0.1.0-r20250213.2"          
         },
         {
-            "appname": "ZMQ Proxy",
-            "appVersion": "393-1.1.7"
+            "appname": "zmqproxy",
+            "appVersion": "393-1.1.7"          
         },
         {
-            "appname": "ngrtu-fluent-bit",
-            "appVersion": "2.2.0-r20241205.1"
+            "appname": "fluent-bit",
+            "appVersion": "2.2.0-r20241205.1"          
         },
         {
-            "appname": "License Runtime",
-            "appVersion": "7.65.0-r1057"
+            "appname": "licenseruntime",
+            "appVersion": "7.65.0-r1057"          
         },
         {
             "appname": "licenseManager",
-            "appVersion": "1.3.0-r20250115.4"
-        },
+            "appVersion": "1.3.0-r20250115.4"          
+        },  
         {
             "appname": "edgeEnabler",
             "appVersion": "1.2.0-m1"
         },
         {
-            "appname": "Core Systems",
-            "appVersion": "1.0.20250205.1"
+            "appname": "core",
+            "appVersion": "1.0.20250220.1"
         },
         {
-            "appname": "IO Systems",
-            "appVersion": "2.77.20250124.2"
+            "appname": "iobmgr",
+            "appVersion": "2.79.20250219.2"
         },
         {
-            "appname": "Event Manager",
+            "appname": "eventmgr",
             "appVersion": "0.52.20250131.2"
         },
         {
-            "appname": "Data Logger",
+            "appname": "dataLogger",
             "appVersion": "0.45.20250124.4"
         },
         {
-            "appname": "Modbus Driver",
-            "appVersion": "1.10.20250114.1"
-        },
+            "appname": "modbus",
+            "appVersion": "1.11.20250219.2"
+        },    
         {
-            "appname": "HCC2PDefEditorServer",
+            "appname": "pdefeditorserver",
             "appVersion": "1.26.20250206.6"
         },
-        {
-            "appname": "OPC UA Server",
+		{
+            "appname": "opcserver",
             "appVersion": "0.23.20250213.2"
         },
-        {
-            "appname": "HCC2 REST Server",
-            "appVersion": "0.1.0-r20250121.2"
+		{
+            "appname": "hcc2RestServer",
+            "appVersion": "0.1.0-r20250219.3"
         },
-        {
+		{
             "appname": "mqtt",
-            "appVersion": "0.22.0-20250203.1"
+            "appVersion": "0.22.0-20250203.1a"
         }
     ]
 }
