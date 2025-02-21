@@ -12,6 +12,10 @@
             "appVersion": "1.6.2"          
         },
         {
+            "appname": "avalonGateway",
+            "appVersion": "2.13.2-hcc2"          
+        },	    
+        {
             "appname": "ldap",
             "appVersion": "2.6.6-r1169"          
         },
