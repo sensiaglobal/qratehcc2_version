@@ -25,7 +25,7 @@
         },
         {
             "appname": "zmqproxy",
-            "appVersion": "393-1.1.7"          
+            "appVersion": "1.1.7"          
         },
         {
             "appname": "fluent-bit",
@@ -77,7 +77,7 @@
         },
 		{
             "appname": "mqtt",
-            "appVersion": "0.22.0-20250203.1a"
+            "appVersion": "0.22.0-20250203.1"
         }
     ]
 }
