@@ -1,0 +1,83 @@
+{
+    "osRelease": {
+        "version": "1.8.1-f8290d2-20250212.4"
+    },
+    "applications": [
+        {
+            "appname": "unity",
+            "appVersion": "1.6.223-20250213.4"
+        },
+        {
+            "appname": "avalonHcc2App_0",
+            "appVersion": "1.6.2"          
+        },
+        {
+            "appname": "avalonGateway_0",
+            "appVersion": "2.13.2-hcc2"          
+        },	    
+        {
+            "appname": "ldap_0",
+            "appVersion": "2.6.6-r1169"          
+        },
+        {
+            "appname": "configmgr",
+            "appVersion": "0.1.0-r20250213.2"          
+        },
+        {
+            "appname": "zmqproxy",
+            "appVersion": "1.1.7"          
+        },
+        {
+            "appname": "fluent-bit",
+            "appVersion": "2.2.0-r20241205.1"          
+        },
+        {
+            "appname": "licenseruntime",
+            "appVersion": "7.65.0-r1057"          
+        },
+        {
+            "appname": "licenseManager_0",
+            "appVersion": "1.3.0-r20250115.4"          
+        },  
+        {
+            "appname": "edgeEnabler_0",
+            "appVersion": "1.2.0-m1"
+        },
+        {
+            "appname": "core_0",
+            "appVersion": "1.0.20250220.1"
+        },
+        {
+            "appname": "iobmgr",
+            "appVersion": "2.79.20250219.2"
+        },
+        {
+            "appname": "eventmgr_0",
+            "appVersion": "0.52.20250131.2"
+        },
+        {
+            "appname": "dataLogger_0",
+            "appVersion": "0.45.20250124.4"
+        },
+        {
+            "appname": "modbus_0",
+            "appVersion": "1.11.20250219.2"
+        },    
+        {
+            "appname": "pdefeditorserver",
+            "appVersion": "1.26.20250206.6"
+        },
+		{
+            "appname": "opcserver_0",
+            "appVersion": "0.23.20250213.2"
+        },
+		{
+            "appname": "hcc2RestServer_0",
+            "appVersion": "0.1.0-r20250219.3"
+        },
+		{
+            "appname": "mqtt_0",
+            "appVersion": "0.22.0-20250203.1b"
+        }
+    ]
+}
