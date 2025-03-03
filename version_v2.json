@@ -5,15 +5,15 @@
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.6.223-20250213.4"
+            "appVersion": "1.6.242-20250228.5"
         },
         {
             "appname": "avalonHcc2App_0",
-            "appVersion": "1.6.2"          
+            "appVersion": "1.6.4"          
         },
         {
             "appname": "avalonGateway_0",
-            "appVersion": "2.13.2-hcc2"          
+            "appVersion": "2.15.3-hcc2"          
         },	    
         {
             "appname": "ldap_0",
@@ -69,7 +69,7 @@
         },
 		{
             "appname": "opcserver_0",
-            "appVersion": "0.23.20250213.2"
+            "appVersion": "0.24.20250226.2"
         },
 		{
             "appname": "hcc2RestServer_0",
