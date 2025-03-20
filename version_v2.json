@@ -5,7 +5,7 @@
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.6.242-20250228.5"
+            "appVersion": "1.7.7-20250314.3"
         },
         {
             "appname": "avalonHcc2App_0",
@@ -49,23 +49,23 @@
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.79.20250219.2"
+            "appVersion": "2.80.20250318.2"
         },
         {
             "appname": "eventmgr_0",
-            "appVersion": "0.52.20250131.2"
+            "appVersion": "0.53.20250318.2"
         },
         {
             "appname": "dataLogger_0",
-            "appVersion": "0.45.20250124.4"
+            "appVersion": "0.46.20250318.2"
         },
         {
             "appname": "modbus_0",
-            "appVersion": "1.12.20250304.2"
+            "appVersion": "1.13.20250317.3"
         },    
         {
             "appname": "pdefeditorserver",
-            "appVersion": "1.26.20250206.6"
+            "appVersion": "1.27.20250319.2"
         },
 		{
             "appname": "opcserver_0",
