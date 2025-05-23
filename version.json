@@ -1,55 +1,51 @@
 {
     "osRelease": {
-        "version": "1.8.2-e8484a5-20250407.6"
+        "version": "1.9.1-c90ed4b-20250507.3"
     },
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.7.7-20250314.3"
+            "appVersion": "1.7.37-20250506.3"
         },
         {
             "appname": "avalonHcc2App",
-            "appVersion": "1.6.4"          
+            "appVersion": "1.6.10"
         },
         {
-            "appname": "avalonGateway",
-            "appVersion": "2.15.3-hcc2"          
-        },	    
-        {
             "appname": "ldap",
-            "appVersion": "2.6.6-r1169"          
+            "appVersion": "2.6.6-r1169"
         },
         {
             "appname": "configmgr",
-            "appVersion": "0.1.0-r20250213.2"          
+            "appVersion": "0.1.0-r20250226.1"
         },
         {
             "appname": "zmqproxy",
-            "appVersion": "1.1.7"          
+            "appVersion": "1.1.7"
         },
         {
             "appname": "fluent-bit",
-            "appVersion": "2.2.0-r20241205.1"          
+            "appVersion": "2.2.0-r20241205.1"
         },
         {
             "appname": "licenseruntime",
-            "appVersion": "7.65.0-r1057"          
+            "appVersion": "7.65.0-r1057"
         },
         {
             "appname": "licenseManager",
-            "appVersion": "1.3.0-r20250115.4"          
-        },  
+            "appVersion": "1.3.0-r20250115.4"
+        },
         {
             "appname": "edgeEnabler",
             "appVersion": "1.2.0-m1"
         },
         {
             "appname": "core",
-            "appVersion": "1.0.20250220.1"
+            "appVersion": "1.0.20250502.2"
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.80.20250318.2"
+            "appVersion": "2.82.20250501.2"
         },
         {
             "appname": "eventmgr",
@@ -62,22 +58,30 @@
         {
             "appname": "modbus",
             "appVersion": "1.13.20250317.3"
-        },    
+        },
         {
             "appname": "pdefeditorserver",
             "appVersion": "1.27.20250319.2"
         },
-		{
+        {
             "appname": "opcserver",
             "appVersion": "0.24.20250226.2"
         },
-		{
+        {
             "appname": "hcc2RestServer",
-            "appVersion": "0.1.0-r20250219.3"
+            "appVersion": "0.1.0-r20250430.1"
         },
-		{
+        {
             "appname": "mqtt",
-            "appVersion": "0.22.0-20250203.1b"
+            "appVersion": "1.1.0-20250417.1"
+        },
+        {
+            "appname": "dnp3",
+            "appVersion": "0.12.20250507.7"
+        },
+        {
+            "appname": "enip",
+            "appVersion": "0.20.20250506.3"
         }
-    ]
+	]
 }
