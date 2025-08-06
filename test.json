@@ -1,83 +1,91 @@
 {
     "osRelease": {
-        "version": "1.8.1-f8290d2-20250212.4"
+        "version": "1.9.2-295654c-20250721.1"
     },
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.6.223-20250213.4"
+            "appVersion": "1.8.9999-test.20250730.8"
         },
         {
             "appname": "avalonHcc2App",
-            "appVersion": "1.6.2"          
+            "appVersion": "1.6.14"
         },
         {
-            "appname": "avalonGateway",
-            "appVersion": "2.13.2-hcc2"          
-        },	    
-        {
             "appname": "ldap",
-            "appVersion": "2.6.6-r1169"          
+            "appVersion": "2.6.7-r20250609.4"
         },
         {
             "appname": "configmgr",
-            "appVersion": "0.1.0-r20250213.2"          
+            "appVersion": "0.1.0-r20250725.1"
         },
         {
             "appname": "zmqproxy",
-            "appVersion": "1.1.7"          
+            "appVersion": "1.1.7"
         },
         {
             "appname": "fluent-bit",
-            "appVersion": "2.2.0-r20241205.1"          
+            "appVersion": "2.2.0-r20241205.1"
         },
         {
             "appname": "licenseruntime",
-            "appVersion": "7.65.0-r1057"          
+            "appVersion": "7.65.0-r1057"
         },
         {
             "appname": "licenseManager",
-            "appVersion": "1.3.0-r20250115.4"          
-        },  
+            "appVersion": "1.3.0-r20250115.4"
+        },
         {
             "appname": "edgeEnabler",
             "appVersion": "1.2.0-m1"
         },
         {
             "appname": "core",
-            "appVersion": "1.0.20250220.1"
+            "appVersion": "1.0.20250731.1"
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.79.20250219.2"
+            "appVersion": "2.85.20250730.1"
         },
         {
             "appname": "eventmgr",
-            "appVersion": "0.52.20250131.2"
+            "appVersion": "0.59.20250731.1"
         },
         {
             "appname": "dataLogger",
-            "appVersion": "0.45.20250124.4"
+            "appVersion": "0.51.20250731.1"
         },
         {
             "appname": "modbus",
-            "appVersion": "1.11.20250219.2"
-        },    
+            "appVersion": "1.15.20250730.1"
+        },
         {
             "appname": "pdefeditorserver",
-            "appVersion": "1.26.20250206.6"
+            "appVersion": "1.27.20250729.1"
         },
-		{
+        {
             "appname": "opcserver",
-            "appVersion": "0.23.20250213.2"
+            "appVersion": "0.33.20250731.1"
         },
-		{
+        {
             "appname": "hcc2RestServer",
-            "appVersion": "0.1.0-r20250219.3"
+            "appVersion": "0.1.0-r20250725.2"
         },
-		{
+        {
             "appname": "mqtt",
-            "appVersion": "0.22.0-20250203.1"
+            "appVersion": "1.2.0.20250728.1"
+        },
+        {
+            "appname": "dnp3",
+            "appVersion": "0.19.20250731.1"
+        },
+        {
+            "appname": "enip",
+            "appVersion": "0.27.20250731.1"
+        },
+	{
+            "appname": "isagraf_file_manager",
+            "appVersion": "1.0.0-r20250729.1"
         }
-    ]
+	]
 }
