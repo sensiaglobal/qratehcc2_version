@@ -45,15 +45,15 @@
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.86.20250806.1"
+            "appVersion": "2.87.20250806.2"
         },
         {
             "appname": "eventmgr",
-            "appVersion": "0.59.20250731.1"
+            "appVersion": "0.59.20250805.2"
         },
         {
             "appname": "dataLogger",
-            "appVersion": "0.51.20250805.2"
+            "appVersion": "0.52.20250807.1"
         },
         {
             "appname": "modbus",
@@ -77,7 +77,7 @@
         },
         {
             "appname": "dnp3",
-            "appVersion": "0.19.20250731.1"
+            "appVersion": "0.21.20250808.1"
         },
         {
             "appname": "enip",
