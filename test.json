@@ -45,7 +45,7 @@
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.87.20250806.2"
+            "appVersion": "2.88.20250808.2"
         },
         {
             "appname": "eventmgr",
@@ -77,13 +77,13 @@
         },
         {
             "appname": "dnp3",
-            "appVersion": "0.21.20250808.1"
+            "appVersion": "0.22.20250808.3"
         },
         {
             "appname": "enip",
             "appVersion": "0.27.20250731.1"
         },
-	{
+	    {
             "appname": "isagraf_file_manager",
             "appVersion": "1.0.0-r20250729.1"
         }
