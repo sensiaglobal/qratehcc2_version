@@ -5,7 +5,7 @@
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.8.81-dev.20250813.3"
+            "appVersion": "1.8.86-20250819.3"
         },
         {
             "appname": "avalonHcc2App",
@@ -45,7 +45,7 @@
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.90.20250813.2"
+            "appVersion": "2.90.20250814.1"
         },
         {
             "appname": "eventmgr",
@@ -77,7 +77,7 @@
         },
         {
             "appname": "dnp3",
-            "appVersion": "0.22.20250812.1"
+            "appVersion": "0.23.20250815.1"
         },
         {
             "appname": "enip",
