@@ -77,11 +77,11 @@
         },
         {
             "appname": "dnp3outstation_0",
-            "appVersion": "0.23.20250815.1"
+            "appVersion": "0.23.20250815.2"
         },
         {
             "appname": "eniptarget_0",
-            "appVersion": "0.27.20250805.1"
+            "appVersion": "0.27.20250805.2"
         },
 	    {
             "appname": "isagraf_file_manager",
