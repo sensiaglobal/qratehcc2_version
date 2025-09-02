@@ -1,23 +1,23 @@
 {
     "osRelease": {
-        "version": "1.9.1-c90ed4b-20250507.3"
+        "version": "1.9.2-295654c-20250721.1"
     },
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.7.37-20250506.3"
+            "appVersion": "1.8.92-20250827.3"
         },
         {
             "appname": "avalonHcc2App",
-            "appVersion": "1.6.10"
+            "appVersion": "1.6.14"
         },
         {
             "appname": "ldap",
-            "appVersion": "2.6.6-r1169"
+            "appVersion": "2.6.7-r20250609.4"
         },
         {
             "appname": "configmgr",
-            "appVersion": "0.1.0-r20250226.1"
+            "appVersion": "0.1.0-r20250725.1"
         },
         {
             "appname": "zmqproxy",
@@ -41,47 +41,51 @@
         },
         {
             "appname": "core",
-            "appVersion": "1.0.20250502.2"
+            "appVersion": "1.0.20250805.2"
         },
         {
             "appname": "iobmgr",
-            "appVersion": "2.82.20250501.2"
+            "appVersion": "2.90.20250814.1"
         },
         {
             "appname": "eventmgr",
-            "appVersion": "0.53.20250318.2"
+            "appVersion": "0.59.20250805.2"
         },
         {
             "appname": "dataLogger",
-            "appVersion": "0.46.20250318.2"
+            "appVersion": "0.52.20250811.1"
         },
         {
             "appname": "modbus",
-            "appVersion": "1.13.20250317.3"
+            "appVersion": "1.17.20250821.2"
         },
         {
             "appname": "pdefeditorserver",
-            "appVersion": "1.27.20250319.2"
+            "appVersion": "1.27.20250729.1"
         },
         {
             "appname": "opcserver",
-            "appVersion": "0.24.20250226.2"
+            "appVersion": "0.34.20250811.2"
         },
         {
             "appname": "hcc2RestServer",
-            "appVersion": "0.1.0-r20250430.1"
+            "appVersion": "0.1.0-r20250725.2"
         },
         {
             "appname": "mqtt",
-            "appVersion": "1.1.0-20250417.1"
+            "appVersion": "1.2.0.20250815.2"
         },
         {
             "appname": "dnp3",
-            "appVersion": "0.12.20250507.7"
+            "appVersion": "0.21.20250808.1"
         },
         {
             "appname": "enip",
-            "appVersion": "0.20.20250506.3"
+            "appVersion": "0.27.20250731.1"
+        },
+		{
+            "appname": "isagraf_file_manager",
+            "appVersion": "1.0.0-r20250729.1"
         }
 	]
 }
