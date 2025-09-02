@@ -5,7 +5,7 @@
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "1.8.89-20250820.4"
+            "appVersion": "1.8.92-20250827.3"
         },
         {
             "appname": "avalonHcc2App_0",
@@ -57,7 +57,7 @@
         },
         {
             "appname": "modbus_0",
-            "appVersion": "1.17.20250811.2"
+            "appVersion": "1.17.20250821.2"
         },
         {
             "appname": "pdefeditorserver",
