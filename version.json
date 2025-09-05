@@ -77,11 +77,11 @@
         },
         {
             "appname": "dnp3",
-            "appVersion": "0.23.20250815.1"
+            "appVersion": "0.22.20250814.1"
         },
         {
             "appname": "enip",
-            "appVersion": "0.27.20250805.1"
+            "appVersion": "0.27.20250814.1"
         },
 		{
             "appname": "isagraf_file_manager",
