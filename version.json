@@ -1,11 +1,11 @@
 {
     "osRelease": {
-        "version": "1.9.5-d249e54-20260423.3"
+        "version": "1.9.5-76400a9-20260508.3"
     },
     "applications": [
         {
             "appname": "unity",
-            "appVersion": "2.0.274-20260416.2"
+            "appVersion": "2.0.311-20260508.4"
         },
         {
             "appname": "avalonHcc2App",
